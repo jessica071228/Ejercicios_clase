@@ -1,3 +1,6 @@
+#Jessica Maria Martinez Monterrosa
+#Ingenieria en animacion digital
+#ID: 00606503
 #Reino del dragon
 import random
 print("Bienvenido al reino del dragon, querido jugador")
